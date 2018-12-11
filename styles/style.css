@@ -1,0 +1,11 @@
+canvas {
+    border: 2px solid rgba(45, 80, 176, 1);
+    background-image: linear-gradient(45deg, rgb(0, 116, 217), rgb(57, 204, 204) 51%, rgb(0, 116, 217));
+  }
+
+  body {
+      style : "margin: 0px; background: #0e0e0e;"
+  }
+  /* drawPaddle{
+      background-color: blueviolet;
+  } */
